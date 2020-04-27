@@ -6,3 +6,4 @@ Helical resonator is a wire helix (inductor) surrounded by cylindrical conductiv
 
 The code (helical_res.py) follows the Silverns paper which guides through the design and construction of such a resonator for any given ion trap system. Particularly, the program outputs contour plots of quality factor (Q) as a function of the coil diameter (d) and the coil to shield diameter ratio (d/D) for given input paramters described below. 
 
+![Design Paramters](design_paramters.png)
