@@ -32,7 +32,7 @@ d₀
 
 w₀ = 2π*10 MHz
 
-Ct = Cw = 15 pF
+Ct = Cw = 5 pF
 
 Rt = 1 Ω
 
@@ -42,5 +42,6 @@ d₀ = 5 mm
 
 τ = 10 mm
 
+![Sample Contour Plot](sampleoutput_10mhz_5pf.png)
 
 
